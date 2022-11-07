@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a rel="me" href="https://androiddev.social/@wiyarmir">Mastodon</a>
-
 <!--
 **wiyarmir/wiyarmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
